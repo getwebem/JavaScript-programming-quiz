@@ -1,6 +1,5 @@
 
 # JS Quiz
-### **Getting started**
 ### Technologies Used
 #### HTML5, CSS3, JavaScript ES5
  - Run  :  `git clone https://github.com/getwebem/jsQuiz.git`
