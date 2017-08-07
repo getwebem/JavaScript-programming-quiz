@@ -8,21 +8,7 @@
  - Run :  `Brackets .`
  - Open :  `Index.html`
  - Browser:  `Live Preview`  
-
+ - [View Demo](http://getwebem.com/jsQuiz/)  
 <br/><br/>
+![pic1](https://raw.githubusercontent.com/getwebem/README/master/jsQuiz/Screen%20Shot%202017-08-07%20at%2021.36.32.png)
 <br/><br/>
-<br/><br/>
-![pic1](https://raw.githubusercontent.com/getwebem/README/master/jsQuiz/Screen%20Shot%202017-05-29%20at%2009.25.04.png)
-<br/><br/>
-
-<br/><br/>
-![pic2](https://raw.githubusercontent.com/getwebem/README/master/jsQuiz/Screen%20Shot%202017-05-29%20at%2009.25.39.png)
-<br/><br/>
-
-<br/><br/>
-![pic3](https://raw.githubusercontent.com/getwebem/README/master/jsQuiz/Screen%20Shot%202017-05-29%20at%2009.26.08.png)
-<br/><br/>
-<br/><br/>
-![pic4](https://raw.githubusercontent.com/getwebem/README/master/jsQuiz/Screen%20Shot%202017-05-29%20at%2009.32.21.png)
-<br/><br/>
-
